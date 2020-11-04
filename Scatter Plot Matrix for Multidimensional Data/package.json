@@ -1,0 +1,14 @@
+{
+  "name": "@dhrubo/dhrubo-hasan-chowdhury-4797864-assignment-5",
+  "main": "1d26d132cb58b366@722.js",
+  "version": "722.0.0",
+  "homepage": "https://observablehq.com/@dhrubo/dhrubo-hasan-chowdhury-4797864-assignment-5",
+  "author": {
+    "name": "dhrubo hasan",
+    "url": "https://observablehq.com/@dhrubo"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
